@@ -38,7 +38,7 @@ else:
     print("you are offline")
 
 
-#strings
+#strings,float,integer,boolean
 user_name = "bro code"
 year = 2024
 pi =3.14
