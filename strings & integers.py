@@ -36,3 +36,19 @@ if is_online:
     print("You are online")
 else:
     print("you are offline")
+
+
+#strings
+user_name = "bro code"
+year = 2024
+pi =3.14
+is_admin = True
+
+print(f"Hey {user_name}")
+print(f"you are {year}")
+print(f"Pi value is {pi} ")
+
+if is_admin:
+    print("if it is true")
+else:
+    print("it is not true")
