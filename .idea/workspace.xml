@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="602d991c-fba4-4af0-bea7-869bc3135f4c" name="Changes" comment="calculate area of rectangle">
+      <change afterPath="$PROJECT_DIR$/.idea/PYTHON 12 HOUR.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dreamcoder2k&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dreamcoder2k/python-beginner.git&quot;,
+    &quot;accountId&quot;: &quot;e932c27f-17c7-47a8-8af5-55402d1ea4e7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3EQH1CFSjAes0kf4wQTJMD388sP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Typecasting.executor": "Run",
+    "Python.USER INPUT.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.strings & integers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="602d991c-fba4-4af0-bea7-869bc3135f4c" name="Changes" comment="" />
+      <created>1780103655575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780103655575</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added hello world">
+      <option name="closed" value="true" />
+      <created>1780106832571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780106832571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added hello world">
+      <option name="closed" value="true" />
+      <created>1780109146113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780109146113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added hello world&#10;variables">
+      <option name="closed" value="true" />
+      <created>1780206717498</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780206717498</updated>
+    </task>
+    <task id="LOCAL-00004" summary="strings&#10;integers&#10;float&#10;boolean">
+      <option name="closed" value="true" />
+      <created>1780214986406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780214986406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="strings&#10;integers&#10;float&#10;boolean">
+      <option name="closed" value="true" />
+      <created>1780215483975</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780215483975</updated>
+    </task>
+    <task id="LOCAL-00006" summary="strings&#10;integers&#10;float&#10;boolean">
+      <option name="closed" value="true" />
+      <created>1780215515376</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780215515376</updated>
+    </task>
+    <task id="LOCAL-00007" summary="strings&#10;integers&#10;float&#10;boolean">
+      <option name="closed" value="true" />
+      <created>1780233164269</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780233164269</updated>
+    </task>
+    <task id="LOCAL-00008" summary="strings&#10;integers&#10;float&#10;boolean">
+      <option name="closed" value="true" />
+      <created>1780233423573</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1780233423573</updated>
+    </task>
+    <task id="LOCAL-00009" summary="calculate area of rectangle">
+      <option name="closed" value="true" />
+      <created>1780234222317</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1780234222317</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added hello world" />
+    <MESSAGE value="added hello world&#10;variables" />
+    <MESSAGE value="TYPECASTING" />
+    <MESSAGE value="typecasting" />
+    <MESSAGE value="\" />
+    <MESSAGE value="strings&#10;integers&#10;float&#10;boolean" />
+    <MESSAGE value="calculate area of rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculate area of rectangle" />
+  </component>
+</project>
