@@ -5,4 +5,4 @@ quantity =int(input("How many would you like?:"))
 total = int(price * quantity)
 
 print(f"you bought {quantity} x {item}/s")
-print(f"your total is ${total}")
+print(f"your total is ${total}"
