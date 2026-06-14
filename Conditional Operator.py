@@ -5,7 +5,10 @@
 
 num = 6
 age = 8
+temprature = 18
 x= "WEEKEND!" if num > 5 else "WORKDAY"
 status = "Adult" if age >= 18 else "child"
+weather = "HOT" if temprature < 30 else "COLD"
 print(x)
 print(status)
+print(weather)
