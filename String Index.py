@@ -1,6 +1,5 @@
 # String index accessing elements of sequence using []
+credit_number = "1233-8577-9897"
 
-phone_number = "1234-5678-9870"
-#print(phone_number [0])
-#print(phone_number [5:9])
-print(phone_number [4:])
+last_digits = credit_number[-4:]
+print(f"xxxx-xxxx-xxxx-{last_digits}")
